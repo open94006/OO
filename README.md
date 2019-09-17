@@ -29,3 +29,8 @@ My First Assignment
 [Youtube](https://www.youtube.com)
 
 <https://www.youtube.com/>
+
+| Left-Aligned | Center-Aligned | Right-Aligned |
+|:-------------|:--------------:|--------------:|
+|1|2|3|
+|:last_quarter_moon_with_face:|:mahjong:|:first_quarter_moon_with_face:|
