@@ -36,4 +36,4 @@ My First Assignment
 |:last_quarter_moon_with_face:|:mahjong:|:first_quarter_moon_with_face:|
 
 
-![NKUST](nkust.jpg "高科大")
+![NKUST](nkust."高科大")
