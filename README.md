@@ -38,4 +38,4 @@ My First Assignment
 
 ![NKUST](nkust.png "高科大")
 
-[![ONE OK ROCK - I was King [Official Video from Orchestra Japan Tour]](ONE OK ROCK - I was King.jpg)](https://www.youtube.com/watch?v=RxCEMy022Do "ONE OK ROCK - I was King")
+[![ONE OK ROCK - I was King](https://i.ytimg.com/vi/s3VJUVkKqyc/maxresdefault.jpg)](https://www.youtube.com/watch?v=RxCEMy022Do "ONE OK ROCK - I was King")
